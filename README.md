@@ -11,7 +11,7 @@ This is a simple Digital Clock application built with Python.
 1. **Pull the Repository**
 
 ```bash
-   git clone <repository-url>
+   git clone <https://github.com/yuutoa/digital-clock.git>
 ```
 
 2. **Create a Virtual Environment**
